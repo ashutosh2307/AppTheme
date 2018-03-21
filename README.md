@@ -1,2 +1,2 @@
 # AppTheme
-Single page bootstrap website.
+Stratup website using bootstrap 3.
